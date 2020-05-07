@@ -1,0 +1,11 @@
+.delete {
+  color: red;
+}
+
+.post-cancel {
+  display: none;
+}
+
+.card .card-text {
+  white-space: pre-line;
+}
